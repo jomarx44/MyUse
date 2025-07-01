@@ -1,0 +1,18 @@
+export const MyUseStrings = {
+    title: "🧥 Outfit Planner",
+    createNewOutfit: "🎨 Create New Outfit",
+    viewSavedOutfits: "💾 View Saved Outfits",
+    clothingLibrary: "👕 Clothing Library",
+    stylingCanvas: "🎨 Styling Canvas",
+    addClothingItem: "➕ Add Clothing Item",
+    saveCanvas: "💾 Save Canvas",
+    clearCanvas: "🗑 Clear Canvas",
+    exportCanvas: "📸 Export Canvas",
+    savedOutfits: "Saved Outfits",
+    clearSavedOutfit: "Clear Saved Outfit",
+    noSavedOutfits: "No saved outfits found.",
+    noClothingItems: "No clothing items found.",
+    remove: "Remove",
+    bringToFront: "Bring to Front",
+    delete: "Delete",
+}

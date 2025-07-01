@@ -1,0 +1,2 @@
+export const STORAGE_KEY = 'SAVED_OUTFITS';
+export const CLOTHING_LIBRARY_KEY = 'CLOTHING_LIBRARY';
